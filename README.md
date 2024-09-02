@@ -1,11 +1,11 @@
 ## Class Exercices Advanced C programming
 
-**Take Advantage Static Variable**
+1. **Take Advantage Static Variable**
 
-**Programing**: Weir-Symbol Roundup
+2. **Programing**: Weir-Symbol Roundup
 
-**Main Functions Arguments**
+3. **Main Functions Arguments**
 
-**External Variables**
+4. **External Variables**
 
-**Array and Structures**
+5. **Array and Structures**
