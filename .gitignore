@@ -1,0 +1,10 @@
+# Compiled output
+**/output/
+build/
+*.o
+*.out
+*.exe
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
